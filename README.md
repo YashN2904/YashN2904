@@ -11,7 +11,7 @@ I am a passionate mobile app developer specializing in **React Native/React**, w
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,androidstudio,git,firebase,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,graphql,androidstudio,java,gradle,firebase,supabase,docker,jenkins,git,github,gitlab,bitbucket,)](https://skillicons.dev)
 
 ## 📚 Experience Highlights
 
