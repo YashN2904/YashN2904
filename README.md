@@ -28,6 +28,6 @@ I am a passionate mobile app developer specializing in **React Native/React**, w
 ## 📬 Get in Touch
 
 Connect with me on [LinkedIn](https://www.linkedin.com)  
-Check out my portfolio [coming soon!]
+Check out my portfolio [Yash Nayi](https://yash-nayi.framer.website/)
 
 Thanks for visiting my profile! Let’s connect and build something amazing together. 🚀
