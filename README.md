@@ -248,24 +248,6 @@ My DevOps work also focuses heavily on security and production reliability:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashN2904&show_icons=true&theme=transparent&hide_border=true" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashN2904&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, DevOps engineers, cloud enthusiasts and people building interesting products.
-
-- 💼 **LinkedIn:** [Yash Nayi](https://www.linkedin.com)
-- 🌐 **Portfolio:** [yash-nayi.framer.website](https://yash-nayi.framer.website/)
-- 💻 **GitHub:** You're already here! 😄
-
----
 
 ### 🚀 Build. Automate. Secure. Scale.
 
